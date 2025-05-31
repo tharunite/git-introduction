@@ -1,2 +1,2 @@
 # Hello Git
-trying first push 
+trying first push , dont know what to do
